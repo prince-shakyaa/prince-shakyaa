@@ -1,19 +1,17 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:1f6feb&height=180&section=header&text=Prince%20Shakya&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=35"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,25:1e3a8a,50:2563eb,75:3b82f6,100:60a5fa&height=220&section=header&text=Prince%20Shakya&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Open%20Source%20Contributor%20•%20Software%20Developer&descAlignY=58"/>
 
-<h3>Open Source Contributor • Software Developer • Systems Enthusiast</h3>
-
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=22&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=700&lines=Building+Real+World+Projects;Exploring+Systems+and+AI;Open+Source+Contributor;Learning+Something+New+Everyday" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=24&duration=2500&pause=800&color=58A6FF&center=true&vCenter=true&multiline=true&repeat=true&width=900&height=100&lines=Building+Real+World+Projects;Exploring+Systems+%26+AI;Open+Source+Contributor;Always+Learning+Something+New" alt="Typing SVG" />
 
 <br/>
 
 <a href="https://github.com/prince-shakyaa">
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  <img src="https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
 <a href="https://www.linkedin.com/in/prince-shakya-b548b830a/">
-  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
 </div>
@@ -75,22 +73,6 @@ Exploring systems, AI, and developer tooling
 
 ---
 
-# GitHub Analytics
-
-<div align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=prince-shakyaa&show_icons=true&theme=github_dark&hide_border=true"/>
-
-<img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=prince-shakyaa&theme=github-dark-blue&hide_border=true"/>
-
-<br/>
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=prince-shakyaa&theme=github-dark&hide_border=true"/>
-
-</div>
-
----
-
 # Current Focus
 
 ```yaml
@@ -110,16 +92,14 @@ building:
 
 <div align="center">
 
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark"/>
+```txt
+Code • Build • Learn • Repeat
+```
 
 </div>
-
----
 
 <div align="center">
 
-### Code • Build • Learn • Repeat
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:60a5fa,25:3b82f6,50:2563eb,75:1e3a8a,100:0f172a&height=140&section=footer"/>
 
 </div>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1f6feb,100:0d1117&height=120&section=footer"/>
