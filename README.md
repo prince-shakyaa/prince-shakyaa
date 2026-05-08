@@ -2,13 +2,9 @@
 
 # Prince Shakya
 
-### Sophomore @ BITS Pilani • Open Source Contributor • Backend & Systems Enthusiast
+### Open Source Contributor • Software Developer • Systems Enthusiast
 
-<p align="center">
-  <a href="https://github.com/prince-shakyaa">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Building+scalable+backend+systems;Exploring+open+source+and+AI;Learning+by+building+real+projects" />
-  </a>
-</p>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=22&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=700&lines=Open+Source+Contributor;Building+Real+World+Projects;Exploring+Systems+and+AI;Learning+Something+New+Everyday" alt="Typing SVG" />
 
 </div>
 
@@ -17,69 +13,70 @@
 ## About Me
 
 ```bash
-> whoami
+$ whoami
 
 Prince Shakya
-Sophomore at BITS Pilani
-Backend Developer & Open Source Contributor
+Sophomore @ BITS Pilani
 
-Interests:
-├── Backend Engineering
-├── Distributed Systems
-├── Open Source
-├── AI & Developer Tooling
-└── System Design
+Interested in:
+- Open Source
+- Systems
+- AI & Developer Tooling
+- Scalable Applications
+- Building Cool Stuff
 ```
 
 ---
 
 ## Tech Stack
 
-<p align="left">
+<div align="center">
 
 <img src="https://skillicons.dev/icons?i=java,js,ts,python,cpp,go,mongodb,mysql,express,nodejs,docker,git,github,postman,tailwind,firebase&theme=dark" />
 
-</p>
+</div>
 
 ---
 
 ## Featured Projects
 
-### Multi-threaded HTTP Server
-> Concurrent HTTP server built using Python with multithreading concepts and low-level networking.
+### 🚀 Multi-threaded HTTP Server
+Concurrent HTTP server built using Python with multithreading and networking concepts.
 
-### MERN Ecommerce
-> Full-stack ecommerce platform using MERN stack with scalable architecture and REST APIs.
+### 🛒 MERN Ecommerce
+Modern ecommerce platform built using the MERN stack.
 
-### RideShare Spring Boot
-> Backend-focused ride-sharing application built with Spring Boot and Java.
+### 🚖 RideShare Spring Boot
+Ride-sharing application developed using Java and Spring Boot.
 
-### Real-Time Stock Portfolio Tracker
-> Real-time portfolio tracking dashboard with dynamic market data visualization.
+### 📈 Real-Time Stock Portfolio Tracker
+Real-time stock tracking dashboard with dynamic analytics.
 
-### NOTES-VAULT
-> Productivity-focused notes management application with modern UI and organization features.
+### 📝 NOTES-VAULT
+Productivity-focused notes management application.
 
-### Pokemon Card Generator
-> Fun frontend project generating dynamic Pokémon cards with interactive UI elements.
+### ⚡ Pokemon Card Generator
+Interactive Pokémon card generator with dynamic frontend rendering.
 
 ---
 
 ## Open Source
 
-- Contributing to open-source projects and developer tooling
-- Exploring AI security and backend systems
-- Learning through real-world collaboration and contributions
+```txt
+Actively contributing to open-source projects
+Learning through collaboration and building
+Exploring systems, AI, and developer tooling
+```
 
 ---
 
-## GitHub Analytics
+## GitHub Stats
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=prince-shakyaa&show_icons=true&theme=github_dark&hide_border=true" />
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=prince-shakyaa&show_icons=true&theme=github_dark&hide_border=true&bg_color=00000000" />
 
-<img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=prince-shakyaa&theme=github-dark-blue&hide_border=true" />
+<img height="180em" src="https://github-readme-streak-stats.herokuapp.com?user=prince-shakyaa&theme=github-dark-blue&hide_border=true&background=00000000" />
 
 </div>
 
@@ -87,29 +84,37 @@ Interests:
 
 ## Current Focus
 
-```text
-[] Building scalable backend projects
-[] Contributing consistently to open source
-[] Learning distributed systems & system design
-[] Exploring AI infrastructure and tooling
+```yaml
+learning:
+  - Open Source
+  - Systems
+  - AI Tooling
+  - Scalable Applications
+
+building:
+  - Real World Projects
+  - Developer Tools
+  - Useful Applications
 ```
 
 ---
 
 ## Connect
 
-<p align="left">
+<div align="center">
+
 <a href="https://github.com/prince-shakyaa">
   <img src="https://skillicons.dev/icons?i=github" />
 </a>
-</p>
+
+</div>
 
 ---
 
 <div align="center">
 
-```text
-Code. Build. Break. Learn. Repeat.
+```txt
+Code. Build. Learn. Repeat.
 ```
 
 </div>
