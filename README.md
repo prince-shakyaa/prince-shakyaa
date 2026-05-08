@@ -1,16 +1,26 @@
 <div align="center">
 
-# Prince Shakya
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:1f6feb&height=180&section=header&text=Prince%20Shakya&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=35"/>
 
-### Open Source Contributor • Software Developer • Systems Enthusiast
+<h3>Open Source Contributor • Software Developer • Systems Enthusiast</h3>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=22&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=700&lines=Open+Source+Contributor;Building+Real+World+Projects;Exploring+Systems+and+AI;Learning+Something+New+Everyday" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=22&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=700&lines=Building+Real+World+Projects;Exploring+Systems+and+AI;Open+Source+Contributor;Learning+Something+New+Everyday" alt="Typing SVG" />
+
+<br/>
+
+<a href="https://github.com/prince-shakyaa">
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+<a href="https://www.linkedin.com/in/prince-shakya-b548b830a/">
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
 
 </div>
 
 ---
 
-## About Me
+# About Me
 
 ```bash
 $ whoami
@@ -18,17 +28,17 @@ $ whoami
 Prince Shakya
 Sophomore @ BITS Pilani
 
-Interested in:
-- Open Source
-- Systems
-- AI & Developer Tooling
-- Scalable Applications
-- Building Cool Stuff
+Interests:
+├── Open Source
+├── Systems
+├── AI & Developer Tooling
+├── Scalable Applications
+└── Building Cool Stuff
 ```
 
 ---
 
-## Tech Stack
+# Tech Stack
 
 <div align="center">
 
@@ -38,29 +48,24 @@ Interested in:
 
 ---
 
-## Featured Projects
+# Featured Projects
 
-### 🚀 Multi-threaded HTTP Server
-Concurrent HTTP server built using Python with multithreading and networking concepts.
+<div align="center">
 
-### 🛒 MERN Ecommerce
-Modern ecommerce platform built using the MERN stack.
+| Project | Description |
+|---|---|
+| 🚀 [Multi-threaded HTTP Server](https://github.com/prince-shakyaa/Multi-threaded-HTTP-server) | Concurrent HTTP server using Python multithreading & networking |
+| 🛒 [MERN Ecommerce](https://github.com/prince-shakyaa/MERN-Ecommerce) | Full-stack ecommerce platform built using the MERN stack |
+| 🚖 [RideShare Spring Boot](https://github.com/prince-shakyaa/RideShare_Springboot) | Ride-sharing application built using Java & Spring Boot |
+| 📈 [Stock Portfolio Tracker](https://github.com/prince-shakyaa/Real-Time-Stock-Portfolio-Tracker) | Real-time portfolio tracking dashboard |
+| 📝 [NOTES-VAULT](https://github.com/prince-shakyaa/NOTES-VAULT) | Productivity-focused notes management application |
+| ⚡ [Pokemon Card Generator](https://github.com/prince-shakyaa/Pokemon-Card-Generator) | Interactive Pokémon card generator project |
 
-### 🚖 RideShare Spring Boot
-Ride-sharing application developed using Java and Spring Boot.
-
-### 📈 Real-Time Stock Portfolio Tracker
-Real-time stock tracking dashboard with dynamic analytics.
-
-### 📝 NOTES-VAULT
-Productivity-focused notes management application.
-
-### ⚡ Pokemon Card Generator
-Interactive Pokémon card generator with dynamic frontend rendering.
+</div>
 
 ---
 
-## Open Source
+# Open Source
 
 ```txt
 Actively contributing to open-source projects
@@ -70,19 +75,23 @@ Exploring systems, AI, and developer tooling
 
 ---
 
-## GitHub Stats
+# GitHub Analytics
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=prince-shakyaa&show_icons=true&theme=github_dark&hide_border=true&bg_color=00000000" />
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=prince-shakyaa&show_icons=true&theme=github_dark&hide_border=true"/>
 
-<img height="180em" src="https://github-readme-streak-stats.herokuapp.com?user=prince-shakyaa&theme=github-dark-blue&hide_border=true&background=00000000" />
+<img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=prince-shakyaa&theme=github-dark-blue&hide_border=true"/>
+
+<br/>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=prince-shakyaa&theme=github-dark&hide_border=true"/>
 
 </div>
 
 ---
 
-## Current Focus
+# Current Focus
 
 ```yaml
 learning:
@@ -99,13 +108,9 @@ building:
 
 ---
 
-## Connect
-
 <div align="center">
 
-<a href="https://github.com/prince-shakyaa">
-  <img src="https://skillicons.dev/icons?i=github" />
-</a>
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark"/>
 
 </div>
 
@@ -113,8 +118,8 @@ building:
 
 <div align="center">
 
-```txt
-Code. Build. Learn. Repeat.
-```
+### Code • Build • Learn • Repeat
 
 </div>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1f6feb,100:0d1117&height=120&section=footer"/>
