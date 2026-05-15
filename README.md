@@ -69,20 +69,6 @@ Interests/
 
 <div align="center">
 
-# 🕸️ OPEN SOURCE
-
-</div>
-
-```txt
-Actively contributing to open-source projects
-Learning through collaboration and building
-Exploring systems, AI, and developer tooling
-```
-
----
-
-<div align="center">
-
 # 🎯 CURRENT FOCUS
 
 </div>
@@ -104,17 +90,6 @@ building:
 
 <div align="center">
 
-# ⚡ CURRENTLY BUILDING
-
-</div>
-
-```txt
-• Backend systems projects
-• AI-powered productivity tools
-• Open-source security tooling
-```
-
----
 
 <div align="center">
 
