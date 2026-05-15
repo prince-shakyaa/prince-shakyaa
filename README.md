@@ -1,22 +1,28 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0f1a,25:7f1d1d,50:dc2626,75:2563eb,100:60a5fa&height=220&section=header&text=Prince%20Shakya&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Backend%20•%20Systems%20•%20Open%20Source&descAlignY=58"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=260&color=gradient&customColorList=12,2,24,30,20&text=Prince%20Shakya&fontSize=58&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Backend%20Engineer%20•%20Systems%20•%20Open%20Source&descAlignY=55"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=24&duration=2500&pause=800&color=EF4444&center=true&vCenter=true&multiline=true&repeat=true&width=900&height=100&lines=Building+Friendly+Neighborhood+Projects;Exploring+Systems+%26+AI;Open+Source+Contributor;Code+•+Build+•+Swing+•+Repeat" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=26&duration=2200&pause=700&color=FF3131&center=true&vCenter=true&multiline=true&repeat=true&width=1000&height=120&lines=%F0%9F%95%B7%EF%B8%8F+Building+Friendly+Neighborhood+Projects;%F0%9F%95%B8%EF%B8%8F+Exploring+Systems+%26+AI;%F0%9F%94%A5+Open+Source+Contributor;%E2%9A%A1+Code+%E2%80%A2+Build+%E2%80%A2+Swing+%E2%80%A2+Repeat" alt="Typing SVG" />
 
 <br/>
 
-<img width="85%" src="https://media.giphy.com/media/oF5oUYTOhvFnO/giphy.gif"/>
+<img width="100%" src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg"/>
+
+<br/>
+
+<img width="90%" src="https://media.giphy.com/media/BWD3CtcudWL28/giphy.gif"/>
 
 <br/><br/>
 
 <a href="https://github.com/prince-shakyaa">
-  <img src="https://img.shields.io/badge/GitHub-111111?style=for-the-badge&logo=github&logoColor=red"/>
+  <img src="https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge&logo=github&logoColor=FF3131"/>
 </a>
 
 <a href="https://www.linkedin.com/in/prince-shakya-b548b830a/">
-  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
+
+<img src="https://komarev.com/ghpvc/?username=prince-shakyaa&label=PROFILE+VIEWS&color=red&style=for-the-badge"/>
 
 </div>
 
@@ -24,31 +30,38 @@
 
 <div align="center">
 
-🕸️ ───────────────────────── 🕸️
+# 🕷️ ABOUT ME
 
 </div>
 
-# About Me
-
 ```bash
-$ whoami
+> whoami
 
 Prince Shakya
 Sophomore @ BITS Pilani
 
-Interests:
+Interests/
 ├── Open Source
-├── Systems
+├── Distributed Systems
 ├── AI & Developer Tooling
 ├── Backend Engineering
-└── Scalable Applications
+├── Scalable Applications
+└── Building Cool Stuff
 ```
 
 ---
 
-# Tech Stack
+<div align="center">
+
+<img src="https://readme-jokes.vercel.app/api?theme=red&hideBorder"/>
+
+</div>
+
+---
 
 <div align="center">
+
+# ⚙️ TECH STACK
 
 <img src="https://skillicons.dev/icons?i=java,python,ts,js,cpp,go,nodejs,express,mongodb,mysql,docker,git,github,postman,tailwind,firebase&theme=dark" />
 
@@ -56,11 +69,13 @@ Interests:
 
 ---
 
-# Featured Projects
-
 <div align="center">
 
-| Project | Description |
+# 🚀 FEATURED PROJECTS
+
+</div>
+
+| 🕸️ Project | ⚡ Description |
 |---|---|
 | 🚀 [Multi-threaded HTTP Server](https://github.com/prince-shakyaa/Multi-threaded-HTTP-server) | Concurrent HTTP server using Python multithreading & networking |
 | 🚖 [RideShare Spring Boot](https://github.com/prince-shakyaa/RideShare_Springboot) | Ride-sharing backend application built using Java & Spring Boot |
@@ -69,17 +84,13 @@ Interests:
 | 📝 [NOTES-VAULT](https://github.com/prince-shakyaa/NOTES-VAULT) | Productivity-focused notes management application |
 | ⚡ [Pokemon Card Generator](https://github.com/prince-shakyaa/Pokemon-Card-Generator) | Interactive Pokémon card generator project |
 
-</div>
-
 ---
 
 <div align="center">
 
-🕷️ SYSTEMS • BACKEND • OPEN SOURCE 🕷️
+# 🕸️ OPEN SOURCE
 
 </div>
-
-# Open Source
 
 ```txt
 Actively contributing to open-source projects
@@ -89,7 +100,11 @@ Exploring systems, AI, and developer tooling
 
 ---
 
-# Current Focus
+<div align="center">
+
+# 🎯 CURRENT FOCUS
+
+</div>
 
 ```yaml
 currently_exploring:
@@ -106,7 +121,11 @@ building:
 
 ---
 
-# Currently Building
+<div align="center">
+
+# ⚡ CURRENTLY BUILDING
+
+</div>
 
 ```txt
 • Backend systems projects
@@ -118,15 +137,17 @@ building:
 
 <div align="center">
 
-```txt
-Code • Build • Swing • Repeat
-```
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=prince-shakyaa&bg_color=0d1117&color=ff3131&line=3b82f6&point=ffffff&hide_border=true"/>
 
 </div>
 
+---
+
 <div align="center">
 
-🕷️ With Great Power Comes Great Responsibility 🕷️
+## 🕷️ Code • Build • Swing • Repeat
+
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark"/>
 
 </div>
 
@@ -134,6 +155,6 @@ Code • Build • Swing • Repeat
 
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:60a5fa,25:2563eb,50:dc2626,75:7f1d1d,100:0f0f1a&height=140&section=footer"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=160&section=footer&color=gradient&customColorList=12,2,24,30,20"/>
 
 </div>
