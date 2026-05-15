@@ -1,6 +1,6 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=260&color=gradient&customColorList=0,8,12,20,24&text=Prince%20Shakya&fontSize=58&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Backend%20Engineer%20•%20Systems%20•%20Open%20Source&descAlignY=55"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=260&color=gradient&customColorList=0,0,0,12,12&text=Prince%20Shakya&fontSize=58&fontColor=ff1a1a&animation=fadeIn&fontAlignY=35&desc=Backend%20Engineer%20•%20Systems%20•%20Open%20Source&descColor=ffffff&descAlignY=55"/>
 
 <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=26&duration=2200&pause=700&color=FF0000&center=true&vCenter=true&multiline=true&repeat=true&width=1000&height=120&lines=%F0%9F%95%B7%EF%B8%8F+Building+Friendly+Neighborhood+Projects;%F0%9F%95%B8%EF%B8%8F+Exploring+Systems+%26+AI;%F0%9F%94%A5+Open+Source+Contributor;%E2%9A%A1+Code+%E2%80%A2+Build+%E2%80%A2+Swing+%E2%80%A2+Repeat" alt="Typing SVG" />
 
@@ -127,6 +127,6 @@ building:
 
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=160&section=footer&color=gradient&customColorList=24,20,12,8,0"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=160&section=footer&color=gradient&customColorList=12,12,0,0,0"/>
 
 </div>
