@@ -14,8 +14,6 @@
   <img src="https://img.shields.io/badge/LinkedIn-111111?style=for-the-badge&logo=linkedin&logoColor=FF0000"/>
 </a>
 
-<img src="https://komarev.com/ghpvc/?username=prince-shakyaa&label=PROFILE+VIEWS&color=red&style=for-the-badge"/>
-
 </div>
 
 ---
