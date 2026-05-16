@@ -100,6 +100,6 @@ building:
 
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=160&section=footer&color=gradient&customColorList=2,2,24,24,30"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=160&section=footer&color=gradient&customColorList=0,2,2,24,30"/>
 
 </div>
