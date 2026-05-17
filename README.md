@@ -43,7 +43,7 @@ Interests/
 
 # ⚙️ TECH STACK
 
-<img src="https://skillicons.dev/icons?i=java,python,ts,js,cpp,go,nodejs,express,mongodb,mysql,docker,git,github,postman,tailwind,firebase&theme=dark" />
+<img src="https://skillicons.dev/icons?i=java,python,ts,js,cpp,go,nodejs,express,mongodb,mysql,docker,git,github,postman,tailwind&theme=dark" />
 
 </div>
 
